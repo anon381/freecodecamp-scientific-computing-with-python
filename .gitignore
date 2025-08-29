@@ -1,6 +1,7 @@
 # Ignore images folder
-image/
-image/Screenshot\ 2025-08-30\ 030503.png
+# image/
+# image/Screenshot 2025-08-30 030503.png
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -47,7 +48,7 @@ htmlcov/
 .nox/
 .coverage
 .coverage.*
-.cache
+//.cache
 nosetests.xml
 coverage.xml
 *.cover
@@ -96,45 +97,3 @@ poetry.lock
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
-
-# SageMath parsed files
-*.sage.py
-
-# Environments
-.env
-.env.*
-.venv
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# Spyder project settings
-.spyderproject
-.spyproject
-
-# Rope project settings
-.ropeproject
-
-# mkdocs documentation
-/site
-
-# mypy
-.mypy_cache/
-.dmypy.json
-
-# Pyre type checker
-.pyre/
-
-# pytype static type analyzer
-.pytype/
-
-# Cython debug symbols
-cython_debug/
-
-# VS Code
-.vscode/
