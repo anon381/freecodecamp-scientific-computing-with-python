@@ -1,4 +1,4 @@
-![Scientific Computing with Python Certificate](image\Screenshot 2025-08-30 030503.png)
+![Scientific Computing with Python Certificate](image/Screenshot%202025-08-30%20030503.png)
 
 # Python Mini-Projects
 
