@@ -1,8 +1,14 @@
+![Scientific Computing with Python Certificate](images/certificate.png)
+
 # Python Mini-Projects
 
-![Scientific Computing with Python Certificate](https://user-images.githubusercontent.com/anon381/certificate-scientific-computing-with-python.png)
-
 >This repository contains five Python projects demonstrating algorithms, simulations, and object-oriented programming. Each project is implemented as a standalone Python file and showcases practical problem-solving skills.
+
+---
+
+## How I Earned the Certificate
+
+This repository contains all the projects I completed for the freeCodeCamp Scientific Computing with Python Developer Certification. Each project demonstrates key concepts required for the certification, including algorithms, simulations, and object-oriented programming. Successfully building and submitting these projects earned me the certificate shown above.
 
 ---
 
