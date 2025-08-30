@@ -2,13 +2,13 @@
 
 # Python Mini-Projects
 
->This repository contains five Python projects demonstrating algorithms, simulations, and object-oriented programming. Each project is implemented as a standalone Python file and showcases practical problem-solving skills.
+>This repository contains five Python projects demonstrating algorithms, simulations, and object-oriented programming. Each project is implemented as a standalone Python file and showcases practical problem-solving skills of mine.
 
 ---
 
 ## How I Earned the Certificate
 
-This repository contains all the projects I completed for the freeCodeCamp Scientific Computing with Python Developer Certification. Each project demonstrates key concepts required for the certification, including algorithms, simulations, and object-oriented programming. Successfully building and submitting these projects earned me the certificate shown above.
+This repository contains all the projects I completed for the freeCodeCamp Scientific Computing with Python Developer Certification. Each project demonstrates key concepts required for the certification, including algorithms, simulations, and object-oriented programming. Successfully building and submitting these projects earned me the certificate shown above, which also took nearly 300 Hours.
 
 ---
 
