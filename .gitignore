@@ -92,8 +92,6 @@ ipython_config.py
 #   However, in case you do not want to do so, uncomment the following line to ignore it.
 # Pipfile.lock
 
-# poetry
-poetry.lock
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
