@@ -3,6 +3,8 @@
 
 ![Scientific Computing with Python Certificate](image/Screenshot%202025-08-30%20030503.png)
 
+---
+
 # Python Mini-Projects
 
 >This repository contains five Python projects demonstrating algorithms, simulations, and object-oriented programming. Each project is implemented as a standalone Python file and showcases practical problem-solving skills of mine.
