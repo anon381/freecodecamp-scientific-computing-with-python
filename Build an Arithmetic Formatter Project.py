@@ -45,7 +45,7 @@ def arithmetic_arranger(problems, show_answers=False):
                 result = str(int(first) - int(second))
             answers_line.append(result.rjust(width))
 
-    # Join with 4 spaces
+    # Join with all spaces
     arranged = "    ".join(first_line) + "\n" \
                + "    ".join(second_line) + "\n" \
                + "    ".join(dashes_line)
