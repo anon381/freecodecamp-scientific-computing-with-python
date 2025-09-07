@@ -41,7 +41,7 @@ class Square(Rectangle):
         self.width = side
         self.height = side
 
-    # override set_width/height to keep square property
+    # override set_width and height to keep square property
     def set_width(self, width):
         self.set_side(width)
 
